@@ -8,10 +8,13 @@ namespace test
 {
     public class Class1
     {
-        private int FirstMethod()
+        private string FirstMethod()
         {
             // tom 2014-02-04
-            return -1;
+            //return -1;
+
+            // second change 
+            return " work on master branch";
         }
     }
 }
