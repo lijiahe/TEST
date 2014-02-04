@@ -13,5 +13,12 @@ namespace test
             // tom 2014-02-04
             return -1;
         }
+
+
+        private string SecondMethod()
+        {
+            // tom 2014-02-04
+            return "add 2nd method in develop branch";
+        }
     }
 }
