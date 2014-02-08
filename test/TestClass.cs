@@ -16,6 +16,7 @@ namespace test
 
         protected string TestFun1()
         {
+            //LiQiang add on 02/08/2014 
             return "This is a test function.";
         }
     }
