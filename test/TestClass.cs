@@ -13,5 +13,10 @@ namespace test
         {
             return 100;
         }
+
+        protected string TestFun1()
+        {
+            return "This is a test function.";
+        }
     }
 }
