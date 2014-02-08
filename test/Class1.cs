@@ -23,5 +23,11 @@ namespace test
             // tom 2014-02-04
             return "add 2nd method in develop branch";
         }
+
+        private string ThirdMethod()
+        {
+            //LiQiang add on 02/08/2014
+            return "";
+        }
     }
 }
