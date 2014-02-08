@@ -24,10 +24,10 @@ namespace test
             return "add 2nd method in develop branch";
         }
 
-        private string TestMothod()
+        private string TestMethod()
         {
             // shiwei 02/08/2014
-            return "testOne"
+            return "testOne";
         }
     }
 }
