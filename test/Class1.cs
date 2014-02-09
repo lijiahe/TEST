@@ -23,5 +23,18 @@ namespace test
             // tom 2014-02-04
             return "add 2nd method in develop branch";
         }
+
+
+        private string NeedLiqiangModify()
+        {
+            //waiting for liqiang implement
+            return "";
+        }
+
+        private string NeedShiweiModify()
+        {
+            // waiting for shiwei implement
+            return "";
+        }
     }
 }
