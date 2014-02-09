@@ -36,5 +36,11 @@ namespace test
             // waiting for shiwei implement
             return "";
         }
+
+        private string NeedLiuHaoModify()
+        {
+            // waiting for LiuHao implement
+            return "";
+        }
     }
 }
