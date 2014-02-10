@@ -33,7 +33,7 @@ namespace test
         private string NeedShiweiModify()
         {
             // waiting for shiwei implement
-            string strTest = "this is a test";
+            string strTest = "This is a test";
             return strTest;
         }
 
