@@ -23,11 +23,24 @@ namespace test
             // tom 2014-02-04
             return "add 2nd method in develop branch";
         }
-
-        private string TestMethod()
+ 
+        private string NeedLiqiangModify()
         {
-            // shiwei 02/08/2014
-            return "testOne";
+            //waiting for liqiang implement
+            return "";
+        }
+
+        private string NeedShiweiModify()
+        {
+            // waiting for shiwei implement
+            string strTest = "this is a test";
+            return strTest;
+        }
+
+        private string NeedLiuHaoModify()
+        {
+            // waiting for LiuHao implement
+            return "";
         }
     }
 }
