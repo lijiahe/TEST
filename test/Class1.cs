@@ -24,6 +24,13 @@ namespace test
             return "add 2nd method in develop branch";
         }
 
+ 
+
+        private string ThirdMethod()
+        {
+            //LiQiang add on 02/08/2014
+            return "Third Method.";
+        }
 
         private string NeedLiqiangModify()
         {
@@ -39,7 +46,7 @@ namespace test
 
         private string NeedLiuHaoModify()
         {
-            // waiting for LiuHao implement
+            // waiting for LiuHao implement 
             return "";
         }
     }

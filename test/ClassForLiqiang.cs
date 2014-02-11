@@ -8,5 +8,10 @@ namespace test
 {
     class ClassForLiqiang
     {
+        protected string TestFunForLq()
+        {
+            //LiQiang 02/10/2014
+            return string.Empty;
+        }
     }
 }
