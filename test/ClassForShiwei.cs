@@ -8,5 +8,9 @@ namespace test
 {
     class ClassForShiwei
     {
+        private string TestMethod()
+        {
+            return "This is a test";
+        }
     }
 }
