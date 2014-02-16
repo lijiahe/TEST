@@ -33,5 +33,16 @@ namespace test
              return 100;
   
         }
+
+
+        private int TestRebase2()
+        {
+            //commit 1
+            //commit 2 
+
+            //commit 3
+            return 100;
+
+        }
     }
 }
