@@ -35,12 +35,13 @@ namespace test
         }
 
 
-        private int TestRevert()
+        private int TestRebase2()
         {
             //commit 1
             //commit 2 
 
             //commit 3
+            //commit 4
             return 100;
 
         }
