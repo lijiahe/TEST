@@ -22,5 +22,11 @@ namespace test
             //good test3
             return 100;
         }
+
+        private int TestRebase()
+        {
+            //commit 1
+            return 100;
+        }
     }
 }
