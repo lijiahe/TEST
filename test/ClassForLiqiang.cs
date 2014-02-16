@@ -33,16 +33,5 @@ namespace test
              return 100;
   
         }
-
-
-        private int TestRevert()
-        {
-            //commit 1
-            //commit 2 
-
-            //commit 3
-            return 100;
-
-        }
     }
 }
