@@ -24,7 +24,7 @@ namespace test
             return "add 2nd method in develop branch";
         }
 
- 
+
 
         private string ThirdMethod()
         {
@@ -47,7 +47,8 @@ namespace test
         private string NeedLiuHaoModify()
         {
             // waiting for LiuHao implement 
-            return "";
+            string strTest1 = ClassForLiuHao.GetTest1();
+            return strTest1;
         }
     }
 }

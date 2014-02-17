@@ -8,5 +8,9 @@ namespace test
 {
     class ClassForLiuHao
     {
+        public static string GetTest1()
+        {
+            return "This is a test.";
+        }
     }
 }
