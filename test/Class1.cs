@@ -47,7 +47,8 @@ namespace test
         private string NeedLiuHaoModify()
         {
             // waiting for LiuHao implement 
-            return "";
+            ClassForLiuHao lh = new ClassForLiuHao();
+            return lh.TestMehod1();
         }
     }
 }

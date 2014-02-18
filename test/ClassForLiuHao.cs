@@ -8,5 +8,11 @@ namespace test
 {
     class ClassForLiuHao
     {
+        //develop branch
+        //liuhao add method
+        public string TestMehod1()
+        {
+            return "Test in Develop branch.";
+        }
     }
 }
