@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="ClassForLiqiang.cs" />
+    <Compile Include="ClassForLiuHao.cs" />
     <Compile Include="ClassForShiwei.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
